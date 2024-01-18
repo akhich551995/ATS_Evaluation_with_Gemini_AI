@@ -77,8 +77,9 @@ input_prompt3 = """
 You are skilled resume builder with a deep understanding of 
 Data Science, Bigdata Engineering, Generativeai,Machine learning Engineer and DataAnalysis.
 
-With the missing skills in job description your task is to provide a sample resume points that can be used to add into the resume
-provide those points in bullets with side heading of that respective skills."""
+With the missing skills in job description your task is to provide a sample resume sentences that can be used to add into the resume
+based on experience of the projects provided in the resume.provide those points 
+with  company's name as heading."""
 
 
 if submit1: 
