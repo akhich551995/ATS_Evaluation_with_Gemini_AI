@@ -74,12 +74,13 @@ the job description. First output should come as percentage and then Keyword mis
 """
 
 input_prompt3 = """
-You are skilled resume builder with a deep understanding of 
-Data Science, Bigdata Engineering, Generativeai,Machine learning Engineer and DataAnalysis.
-
-With the missing skills in job description your task is to provide a sample resume sentences that can be used to add into the resume
-based on experience of the projects provided in the resume.provide those points 
-with  company's name as heading."""
+"As an experienced resume builder with expertise in 
+Data Science, Big Data Engineering, Generative AI, Machine Learning Engineering, and Data Analysis, 
+your task is to generate sample resume sentences. 
+These sentences should highlight the relevant skills and experiences gained from specific projects
+listed in the resume. Provide these points with the company's name as the heading, 
+emphasizing how the candidate's skills address the missing skills mentioned in the job description. 
+This will help tailor the resume to better align with the requirements of potential employers."""
 
 
 if submit1: 
